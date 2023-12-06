@@ -9,5 +9,7 @@
 
 #### [Problem Set 3](https://gitlab.engr.illinois.edu/hongboz2/machine_learning_for_signal_processing/-/tree/main/problem_set_3)
 
+#### [Problem Set 4](https://gitlab.engr.illinois.edu/hongboz2/machine_learning_for_signal_processing/-/tree/main/problem_set_4)
+
 ## Developers
 * Hongbo Zheng [NetID: hongboz2]
