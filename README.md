@@ -1,15 +1,17 @@
-# CS 545 --- Machine Learning for Signal Processing
-##### Machine Learning for Signal Processing Problem Sets
-##### Instructor: Paris Smaragdis
+# CS545 Machine Learning for Signal Processing
 
-## Repository
-#### [Problem Set 1](https://gitlab.engr.illinois.edu/hongboz2/machine_learning_for_signal_processing/-/tree/main/problem_set_1)
+Machine Learning for Signal Processing Materials
 
-#### [Problem Set 2](https://gitlab.engr.illinois.edu/hongboz2/machine_learning_for_signal_processing/-/tree/main/problem_set_2)
+Instructor: Paris Smaragdis
 
-#### [Problem Set 3](https://gitlab.engr.illinois.edu/hongboz2/machine_learning_for_signal_processing/-/tree/main/problem_set_3)
+## Lecture Slides
+- [Lecture Slides](https://github.com/hongbozheng/machine-learning-signal-processing/tree/main/lecture_slides)
 
-#### [Problem Set 4](https://gitlab.engr.illinois.edu/hongboz2/machine_learning_for_signal_processing/-/tree/main/problem_set_4)
+## Problem Sets
+- [Problem Set 1](https://github.com/hongbozheng/machine-learning-signal-processing/tree/main/problem_set_1)
 
-## Developers
-* Hongbo Zheng [NetID: hongboz2]
+- [Problem Set 2](https://github.com/hongbozheng/machine-learning-signal-processing/tree/main/problem_set_2)
+
+- [Problem Set 3](https://github.com/hongbozheng/machine-learning-signal-processing/tree/main/problem_set_3)
+
+- [Problem Set 4](https://github.com/hongbozheng/machine-learning-signal-processing/tree/main/problem_set_4)
