@@ -1,6 +1,6 @@
 # CS545 Machine Learning for Signal Processing
 
-Machine Learning for Signal Processing Materials
+Machine Learning for Signal Processing Materials.
 
 Instructor: Paris Smaragdis
 
