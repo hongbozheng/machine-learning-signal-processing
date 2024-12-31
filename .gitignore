@@ -2,8 +2,8 @@
 .idea
 __pycache__/
 .ipynb_checkpoints/
-problem_set_3/MusicSpeech
-problem_set_3/SpeechMusic/
-problem_set_4/digits
-problem_set_4/friends
-problem_set_4/HAR_Dataset
+problem-set-3/MusicSpeech
+problem-set-3/SpeechMusic/
+problem-set-4/digits
+problem-set-4/friends
+problem-set-4/HAR_Dataset
