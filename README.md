@@ -2,8 +2,6 @@
 
 Machine Learning for Signal Processing Materials.
 
-Instructor: Paris Smaragdis
-
 ## 📖 Lecture Slides
 - [Lecture Slides](https://github.com/hongbozheng/machine-learning-signal-processing/tree/main/lecture_slides)
 
